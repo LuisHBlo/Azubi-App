@@ -9,6 +9,8 @@ const nav = [
   ["/pruefungen", "Prüfungen & Noten"],
   ["/lernkarten", "Lernkarten"],
   ["/berichtsheft", "Berichtsheft"],
+  ["/notizen", "Second Brain"],
+  ["/ranking", "Ranking"],
   ["/assistent", "KI-Assistent"],
 ];
 const rolleLabel = { azubi: "Azubi", ausbilder: "Ausbilder", admin: "Betriebsadmin" } as const;

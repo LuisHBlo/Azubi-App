@@ -1,0 +1,15 @@
+{
+  "thema": "Wärmepumpe: Kältekreislauf",
+  "beruf": "Anlagenmechaniker SHK",
+  "lehrjahr": 2,
+  "geprueft": false,
+  "geprueft_von": null,
+  "datum": null,
+  "karten": [
+    {
+      "frage": "Welche vier Hauptbauteile hat der Kältekreislauf einer Wärmepumpe?",
+      "antwort": "Verdampfer, Verdichter, Verflüssiger (Kondensator), Expansionsventil.",
+      "quelle": "BEISPIEL, bitte durch Fachpartner prüfen"
+    }
+  ]
+}

@@ -15,9 +15,9 @@ Bis 31.01.2027 bauen (Web, Login), dann Pilot (3 Monate kostenlos) mit dem Betri
 | Berichtsheft + PDF | `src/app/(app)/berichtsheft`, `src/app/api/berichtsheft` | _offen_ | v1, PDF ohne offizielles Kammerformat |
 | Ausbilder-Ansicht | `src/app/(app)/ausbilder` | _offen_ | fertig (v1) |
 | KI-Assistent | `src/app/(app)/assistent`, `src/app/api/assistent` | _offen_ | Route da, "nur aus geprüftem Material" fehlt |
-| Second Brain (Notizen) | _noch nicht angelegt_ | _offen_ | offen |
-| Ranking (Opt-in, anonym) | _noch nicht angelegt_ | _offen_ | offen |
-| SHK-Lerninhalte (Karten, Aufgaben) | `content/` (anlegen) | _offen_ (Fachpartner Cousin/Meister) | offen |
+| Second Brain (Notizen) | `src/app/(app)/notizen` | _offen_ | Platzhalter-Seite + Nav, Funktion offen |
+| Ranking (Opt-in, anonym) | `src/app/(app)/ranking` | _offen_ | Platzhalter-Seite + Nav, Funktion offen |
+| SHK-Lerninhalte (Karten, Aufgaben) | `content/` (Format: content/README.md) | _offen_ (Fachpartner Cousin/Meister) | offen |
 | Deploy (Hostinger) | `deploy/`, `scripts/deploy-zip.sh` | _offen_ | Test offen |
 
 ## Offene Aufgaben (priorisiert)
@@ -30,4 +30,5 @@ Bis 31.01.2027 bauen (Web, Login), dann Pilot (3 Monate kostenlos) mit dem Betri
 7. Namensentscheidung (vergeben: Gesellenstück.de, Meisterlab.de, Lehrwerk.de, Lernwerk.de, Walzwerk.de, Craftiq.de)
 
 ## Verlauf
+- 2026-11-13: Modul-Grundgerüst: CLAUDE.md pro Modul, Platzhalter Second Brain + Ranking (mit Navigation), `content/` mit Format-Beispiel.
 - 2026-11-12: Git-Gerüst, CLAUDE.md, docs/ und `/sync`, `/handoff` angelegt.
